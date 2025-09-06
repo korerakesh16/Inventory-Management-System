@@ -1,0 +1,9 @@
+com\telecominv\controller\EquipmentListServlet.class
+com\telecominv\dao\EquipmentDAO.class
+com\telecominv\model\Equipment.class
+com\telecominv\controller\AddEquipmentServlet.class
+com\telecominv\controller\LogoutServlet.class
+com\telecominv\dao\UserDAO.class
+com\telecominv\util\DBConnection.class
+com\telecominv\controller\LoginServlet.class
+com\telecominv\model\User.class
