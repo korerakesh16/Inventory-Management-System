@@ -2,8 +2,6 @@ package com.telecominv.controller;
 
 import com.telecominv.dao.EquipmentDAO;
 import com.telecominv.model.Equipment;
-
-
 import javax.servlet.ServletException;
 import javax.servlet.annotation.MultipartConfig;
 import javax.servlet.annotation.WebServlet;
